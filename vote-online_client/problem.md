@@ -1,0 +1,2 @@
+1.自定义组件路由守卫PrivateRouter无法拿到redux中的值（redux中已经有该值）
+2.在渲染自定义列表时，radio和checkbox无法选中，但是在发布时可以
